@@ -1,6 +1,3 @@
-.image-orang {
-    height: ;
-}
 
 .img-hero {
     height: 100%;
@@ -13,6 +10,80 @@
     width: 100%;
 }
 
+.our {
+    background: url('img/bgimage_service.svg');
+    
+}
+
 .heading-home {
     color: #fff;
+}
+
+.brand {
+    width: 100%;
+    height: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.reduce-teks {
+    padding-right: 20px;
+}
+
+.r3-limage{
+    margin-left: 40px;
+    padding-left: 28px;
+    height: 80%;
+}
+
+.reduce-teks img {
+    height: 20%;
+}
+
+.reduce-p {
+    padding-left: 53px;
+}
+
+.service {
+    background-color: #EFF7F2;
+}
+
+.card-p {
+    padding-left: 95px;
+    width: 50%;
+}
+
+/* layanan section */
+
+.service-card {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    background-color: #BEF3C0;
+}
+
+.service-card h4,p,img {
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.service-card a {
+    margin-left: 20px;
+    
+}
+/* #layanan-section .service-card h4, p, img, a{
+    margin-left: 20px;
+    margin-top: 15px;
+} */
+
+#layanan-section {
+    padding-top: 40px;
+}
+
+/* image form */
+.image-form {
+    width: 100%;
+}
+
+.formulir {
+    padding-top: 40px;
 }
